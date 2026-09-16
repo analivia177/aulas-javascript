@@ -39,4 +39,4 @@ let funcionario = false; // bool - true == verdadeiro ou false == falso
 
 // console.log("A variavel nome tem " + nome + " e é do tipo " + typeof nome)
  
-console.log("a varaivel peso tem" + peso + "e é do tipo " typeof peso)
+console.log("a variavel peso tem" + peso + "e é do tipo " typeof peso)
