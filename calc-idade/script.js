@@ -2,13 +2,9 @@
 
 const formulario = document.getElementById("formulario");
 
-const nome = document.getElementsByClassName("nome");
+const nome = document.getElementsById("nome");
  const nascimento = document.getElementById("nascimento");
 
-const nomeResultado = document.getElementById("nomeResultado");
-const dataResultado = document.getElementById("dataResultado");
-const idadeResultado = document.getElementById("idadeResultado");
-const boxResultado = document.getElementById("resultado");
 
 formulario.addEventListener("submit", function(event){
 event.preventDefault();//impede que a tela regarregue
